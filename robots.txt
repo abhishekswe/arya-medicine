@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aryamedicine.in/sitemap.xml
